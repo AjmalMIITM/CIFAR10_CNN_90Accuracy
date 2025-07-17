@@ -1,5 +1,5 @@
 # CIFAR10_CNN_90Accuracy
-PyTorch implementation of a CNN for CIFAR-10 image classification achieving 90.12% test accuracy with data augmentation, batch normalization, dropout, and learning rate scheduling.
+PyTorch implementation of a CNN for CIFAR-10 image classification achieving ~90.12% test accuracy with data augmentation, batch normalization, dropout, and learning rate scheduling.
 
 ## ✅ Highlights
 
@@ -18,7 +18,7 @@ PyTorch implementation of a CNN for CIFAR-10 image classification achieving 90.1
 
 - 🏎️ **Training Platform**: GPU (CUDA)
 
-- 🎯 **Final Test Accuracy**: **90.12%**
+- 🎯 **Final Test Accuracy**: **~90.12%**
 
 ## 📊 Final Results
 
